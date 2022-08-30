@@ -15,7 +15,7 @@
 
 - Aimbot
 - ESP
-- Exploits etc.
+- Exploits
 - Misc
 - Aimbot Fov Circle
 - Aimbot Smooth
